@@ -1,0 +1,11 @@
+{
+  "default": "Sorry, I didn’t understand that. Can you rephrase?",
+  "greetings": ["Hello! 👋 How can I help you today?", "Hi there! How can I assist you? 😊"],
+  "appointment": "You can view your upcoming appointments in the Appointments section.",
+  "doctors": {
+    "info": "You currently have 3 doctors: Dr. Smith (GP), Dr. Thandiwe Ncube (Cardiologist), and Dr. Amina Diallo (Therapist).",
+    "dr smith": "Dr. Smith is your GP. Contact: drsmith@hospital.com",
+    "dr thandiwe ncube": "Dr. Thandiwe Ncube is a Cardiologist. Contact: thandiwe@hospital.com",
+    "dr amina diallo": "Dr. Amina Diallo is a Therapist. Contact: amina@hospital.com"
+  }
+}

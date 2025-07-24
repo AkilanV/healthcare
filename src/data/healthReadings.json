@@ -1,0 +1,36 @@
+{
+  "healthReadings": [
+    {
+      "title": "Body Temperature",
+      "value": "99.8",
+      "unit": "°F",
+      "icon": "Thermometer",
+      "color": "text-orange-600",
+      "bgColor": "bg-orange-50"
+    },
+    {
+      "title": "Blood Pressure",
+      "value": "123/95",
+      "unit": "mmHg",
+      "icon": "Heart",
+      "color": "text-red-600",
+      "bgColor": "bg-red-50"
+    },
+    {
+      "title": "Blood Sugar",
+      "value": "112",
+      "unit": "mg/dl",
+      "icon": "Droplets",
+      "color": "text-blue-600",
+      "bgColor": "bg-blue-50"
+    },
+    {
+      "title": "Body Weight",
+      "value": "84",
+      "unit": "kg",
+      "icon": "Weight",
+      "color": "text-green-600",
+      "bgColor": "bg-green-50"
+    }
+  ]
+}

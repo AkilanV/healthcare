@@ -1,0 +1,84 @@
+{
+
+  "patient": {
+    "name": "Zuri Okeke",
+    "id": "PT-2025-0010",
+    "age": "45 yrs",
+    "dob": "18-03-1985",
+    "gender": "Male",
+    "insuranceNumber": "7855569358",
+    "avatar": "https://github.com/leerob.png?height=128&width=128",
+    "problems": [
+      {
+        "title": "Hypertension",
+        "date": "Mar 14, 2025",
+        "description": "This patient's hypertension has been recorded in the past"
+      },
+      {
+        "title": "Asthma",
+        "date": "Jun 14, 2025",
+        "description": ""
+      }
+    ],
+    "immunizations": [
+      { "name": "BCG (Tuberculosis)", "date": "Feb 14, 2012 - Dose 1" },
+      { "name": "DTP (Diphtheria, Tetanus, Pertussis)", "date": "Mar 14, 2012 - Dose 2" }
+    ],
+    "allergies": ["Lidocaine", "Penicillin", "Lactose"]
+  },
+
+
+  "upcomingAppointment": {
+    "condition": "Asthma",
+    "doctor": "Dr. Alejandro Mbatha",
+    "date": "22-07-2025"
+  },
+  "doctors": [
+    {
+      "name": "Dr. Smith",
+      "specialty": "GP",
+      "avatar": "https://github.com/leerob.png?height=40&width=40"
+    },
+    {
+      "name": "Dr. Thandiwe Ncube",
+      "specialty": "Cardiologist",
+      "avatar": "https://github.com/leerob.png?height=40&width=40"
+    },
+    {
+      "name": "Dr. Amina Diallo",
+      "specialty": "Therapist",
+      "avatar": "https://github.com/leerob.png?height=40&width=40"
+    }
+  ],
+  "healthReadings": [
+    { "name": "Body Temperature", "value": "99.8°F" },
+    { "name": "Blood Pressure", "value": "123/95 mmHg" },
+    { "name": "Blood Sugar", "value": "112 mg/dl" },
+    { "name": "Body Weight", "value": "84 kg" }
+  ],
+
+  "appointments": [
+    {
+      "condition": "Asthma",
+      "doctor": "Dr. Smith",
+      "date": "22 Jul, 11:00 am - 12:00 pm",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "condition": "General check up",
+      "doctor": "Dr. Thandiwe Ncube",
+      "date": "26 Jul, 01:00 pm - 02:00 pm",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "condition": "Counselling",
+      "doctor": "Dr. Amina Diallo",
+      "date": "29 Jul, 11:00 am - 01:00 pm",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    }
+  ]
+
+
+}
+
+
